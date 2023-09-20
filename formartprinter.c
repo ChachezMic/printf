@@ -1,5 +1,10 @@
 #include <stdio.h>
 #include <stdarg.h>
+/**
+ * my_printf - works like printf
+ * const char:checks
+ * *format:checks
+ * return: (0) always
 
 int my_printf(const char *format, ...)
 {
